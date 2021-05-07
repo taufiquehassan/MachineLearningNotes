@@ -18,4 +18,15 @@ An AI that is good only for one task, but very very well.
 2. Unsupervised Learning: When groups don't exists. No labeling of the data, clustering
 3. Reinforced Learning: Teaching machines by trial and error, Neural networks, decission trees, k-neares neighbors are the subfields.
 
+## Machine Learning Framework Template:
+
+1. **Problem definition:** Is it a supervise, or unsupervised, Classification or regrassion problem?
+2. **Data:** Stractured (rows, columns), Unstructured (images, videos)
+3. **Evaluation:** What defines success for us?
+4. **Features:** What do we already know the data?
+5. **Modeling:** Based on our problem and data, what model should work?
+6. **Experimentation:** How can we improve or what can we do to improve?
+
+
+### 1. Problem Definition:
 

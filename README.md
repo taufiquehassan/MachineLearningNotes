@@ -35,4 +35,14 @@ An AI that is good only for one task, but very very well.
 
 #### Supervised Learning: #### 
 * No lables, but has pattern. Example: customer purchase history
-* 
+
+
+#### Transfer Learning: #### 
+* Find an existing model and then make soem more steps to adopt to the new problem
+
+
+#### Reinforced Learning: #### 
+* A good example is to teach an algorithm to play chase
+
+
+

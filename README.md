@@ -32,3 +32,7 @@ An AI that is good only for one task, but very very well.
 #### Supervised Learning: #### 
 * Classification and Regrassion
 * Two kinds of Classification: Binary and multi-class classifications.
+
+#### Supervised Learning: #### 
+* No lables, but has pattern. Example: customer purchase history
+* 

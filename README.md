@@ -44,5 +44,8 @@ An AI that is good only for one task, but very very well.
 #### Reinforced Learning: #### 
 * A good example is to teach an algorithm to play chase
 
-
-
+### 2. Data:
+* Structured Data:: Data are labled
+* Unsctrutured Data: like an image or audio file
+* Stati Data:
+* Streaming Data:

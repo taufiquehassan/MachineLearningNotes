@@ -58,7 +58,31 @@ An AI that is good only for one task, but very very well.
     * Classification: Accuracy, Precision, Recall
     * Regrassion: mean abs error (MAE), mean squared error (MSE), root mean square errot (RMSE)
     * Recommendation: Precision at K
-* 
+
 
 ### 4. Features:
+* What do we already know about the data?
+* How many features are there? 
+* Numerical or categorical?
+
+### 5. Modeling:
+* There are three parts:
+    * Choosing and training a model
+    * Tuning a model
+    * Model comparison
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

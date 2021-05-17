@@ -49,3 +49,16 @@ An AI that is good only for one task, but very very well.
 * Unsctrutured Data: like an image or audio file
 * Stati Data:
 * Streaming Data:
+
+### 3. Evaluation:
+* Evaluation: How well a ML lgorithm predicts the future
+* What defines the success
+* How accurate the prediction should be
+* Matrics: 
+    * Classification: Accuracy, Precision, Recall
+    * Regrassion: mean abs error (MAE), mean squared error (MSE), root mean square errot (RMSE)
+    * Recommendation: Precision at K
+* 
+
+### 4. Features:
+

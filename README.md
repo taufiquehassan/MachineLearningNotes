@@ -72,9 +72,14 @@ An AI that is good only for one task, but very very well.
     * Model comparison
 
 ## Choosing and Training a Model:
+# Choosing a Model:
 * Structured data -> decission tree such as Random Forest, CatBoost etc
 * Unstructured data -> Deep learning, Transfer Learning etc
 
+#Training a Model:
+* Line up inputs and outputs.
+* Split the data.
+* Might take some time.
 
 
 

@@ -71,8 +71,9 @@ An AI that is good only for one task, but very very well.
     * Tuning a model
     * Model comparison
 
-
-
+## Choosing and Training a Model:
+* Structured data -> decission tree such as Random Forest, CatBoost etc
+* Unstructured data -> Deep learning, Transfer Learning etc
 
 
 
